@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomRectangleView">
+        <attr name="rheight" format="integer"/>
+        <attr name="rwidth" format="integer"/>
+        <attr name="rfillColor" format="integer"/>
+    </declare-styleable>
+</resources>
